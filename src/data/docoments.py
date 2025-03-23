@@ -739,7 +739,7 @@ docoments_data = {
       "file_path": "uploads/KYC/ce9db855-70e6-4425-9cf1-e5b5a9485893.pdf",
       "date_uploaded": "2025-03-21T14:30:21.997690Z",
       "drive_file_id": "1bMV5iYS0t2QRjEh6YTYjSmLgh1Wwd9VF",
-      "drive_link": "https://drive.google.com/file/d/1bMV5iYS0t2QRjEh6YTYjSmLgh1Wwd9VF/view?usp=drivesdk",
+      "drive_link": None,
       "created_at": "2025-03-21T14:30:21.997690Z",
       "updated_at": "2025-03-21T14:30:27.530131Z"
     },
@@ -753,7 +753,7 @@ docoments_data = {
       "file_path": "uploads/KYC/380ed4a4-aea5-4ecd-a8fa-cddd76fd2f8e.pdf",
       "date_uploaded": "2025-03-22T11:35:37.961745Z",
       "drive_file_id": "1Q6BXpvnrdR31YsUf2URvtmjIO0TnT-Xw",
-      "drive_link": "https://drive.google.com/file/d/1Q6BXpvnrdR31YsUf2URvtmjIO0TnT-Xw/view?usp=drivesdk",
+      "drive_link": None,
       "created_at": "2025-03-22T11:35:37.961745Z",
       "updated_at": "2025-03-22T11:35:42.053554Z"
     },
@@ -767,7 +767,7 @@ docoments_data = {
       "file_path": "uploads/Contribution Agreement/701de278-0e5e-444c-93d0-9a724ee7c961.pdf",
       "date_uploaded": "2025-03-22T11:43:10.862030Z",
       "drive_file_id": "17yR9B1z0XJTOLFX7IXkKfYSAnDkcLPhf",
-      "drive_link": "https://drive.google.com/file/d/17yR9B1z0XJTOLFX7IXkKfYSAnDkcLPhf/view?usp=drivesdk",
+      "drive_link": None,
       "created_at": "2025-03-22T11:43:10.862030Z",
       "updated_at": "2025-03-22T11:43:15.028027Z"
     },
@@ -781,7 +781,7 @@ docoments_data = {
       "file_path": "uploads/Contribution Agreement/98b50050-c77b-43f7-b979-125ac05a7bff.pdf",
       "date_uploaded": "2025-03-22T12:22:18.402971Z",
       "drive_file_id": "10oc-tR19wzGYt8hFvur5WldDD3r0IC9s",
-      "drive_link": "https://drive.google.com/file/d/10oc-tR19wzGYt8hFvur5WldDD3r0IC9s/view?usp=drivesdk",
+      "drive_link": None,
       "created_at": "2025-03-22T12:22:18.402971Z",
       "updated_at": "2025-03-22T12:22:22.386016Z"
     },
@@ -795,7 +795,7 @@ docoments_data = {
       "file_path": "uploads/Contribution Agreement/1840ddc6-5a5e-443d-a988-be7870e0ec51.pdf",
       "date_uploaded": "2025-03-22T12:27:56.721712Z",
       "drive_file_id": "1386GbSd4E4LJ3xQQzrDuV8I6PuVkRLt_",
-      "drive_link": "https://drive.google.com/file/d/1386GbSd4E4LJ3xQQzrDuV8I6PuVkRLt_/view?usp=drivesdk",
+      "drive_link": None,
       "created_at": "2025-03-22T12:27:56.721712Z",
       "updated_at": "2025-03-22T12:28:03.193323Z"
     }
