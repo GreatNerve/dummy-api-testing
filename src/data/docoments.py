@@ -1,6 +1,5 @@
 
-docoments_data = {
-  "documents": [
+docoments_data = [
     {
       "document_id": "4fa7e82c-220a-4ab3-a8b5-11581b1bcc28",
       "name": "testing",
@@ -799,6 +798,4 @@ docoments_data = {
       "created_at": "2025-03-22T12:27:56.721712Z",
       "updated_at": "2025-03-22T12:28:03.193323Z"
     }
-  ],
-  "total": 57
-}
+  ]

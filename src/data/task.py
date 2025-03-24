@@ -1,5 +1,4 @@
-tast_data = {
-  "tasks": [
+task_data = [
     {
       "description": "Testing d",
       "deadline": "2025-03-25T18:30:00Z",
@@ -1001,6 +1000,4 @@ tast_data = {
       "approver_name": "Dheeraj Sharma",
       "documents": []
     }
-  ],
-  "total": 53
-}
+  ]

@@ -1,5 +1,4 @@
-log_data  = {
-  "logs": [
+log_data  = [
     {
       "activity": "user_search",
       "details": "User search performed with query:  ",
@@ -800,6 +799,4 @@ log_data  = {
       "timestamp": "2025-03-22T07:44:49.717933Z",
       "user_name": "Dheeraj Sharma"
     }
-  ],
-  "total": 1594
-}
+  ]
