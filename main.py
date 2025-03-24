@@ -18,7 +18,7 @@ middleware = [
     Middleware(HandleExceptionsMiddleware),
     Middleware(
         CORSMiddleware, 
-        allow_origins=["http://localhost:5173", "*"], 
+        allow_origins=["http://localhost:5173", "https://compliance-system.netlify.app"], 
         allow_credentials=True, 
         allow_methods=["*"], 
         allow_headers=["*"]
