@@ -42,8 +42,8 @@ middleware = [
         allow_origins=CORS_ORIGINS,
         allow_credentials=CORS_ALLOW_CREDENTIALS,
         allow_methods=CORS_ALLOW_METHODS,
-        allow_headers=CORS_ALLOW_HEADERS,
-        expose_headers="*",
+        allow_headers="*",
+        expose_headers=CORS_EXPOSE_HEADERS,
         max_age=CORS_MAX_AGE
     )
 ]
